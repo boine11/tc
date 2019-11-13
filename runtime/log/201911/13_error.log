@@ -1,0 +1,4 @@
+---------------------------------------------------------------
+[ 2019-11-13T14:52:38+08:00 ] 127.0.0.1 GET www.t.com/
+[ error ] [2002]SQLSTATE[HY000] [2002] 由于目标计算机积极拒绝，无法连接。
+[D:\phpstudy_pro\WWW\t\thinkphp\library\think\db\Connection.php:295]

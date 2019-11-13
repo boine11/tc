@@ -1,0 +1,33 @@
+---------------------------------------------------------------
+[ 2019-11-12T10:48:58+08:00 ] 127.0.0.1 GET www.t.com/
+[ error ] [8]MemcachePool::get(): Server 127.0.0.1 (tcp 11211, udp 0) failed with: ÓÉÓÚÁ¬½Ó·½ÔÚÒ»¶ÎÊ±¼äºóÃ»ÓĞÕıÈ·´ğ¸´»òÁ¬½ÓµÄÖ÷»úÃ»ÓĞ·´Ó¦£¬Á¬½Ó³¢ÊÔÊ§°Ü¡£
+ (10060)[D:\phpstudy_pro\WWW\t\thinkphp\library\think\session\driver\Memcache.php:82]
+---------------------------------------------------------------
+[ 2019-11-12T10:49:16+08:00 ] 127.0.0.1 GET www.t.com/
+[ error ] [8]MemcachePool::get(): Server 127.0.0.1 (tcp 11211, udp 0) failed with: ÓÉÓÚÁ¬½Ó·½ÔÚÒ»¶ÎÊ±¼äºóÃ»ÓĞÕıÈ·´ğ¸´»òÁ¬½ÓµÄÖ÷»úÃ»ÓĞ·´Ó¦£¬Á¬½Ó³¢ÊÔÊ§°Ü¡£
+ (10060)[D:\phpstudy_pro\WWW\t\thinkphp\library\think\session\driver\Memcache.php:82]
+---------------------------------------------------------------
+[ 2019-11-12T10:49:33+08:00 ] 127.0.0.1 GET www.t.com/
+[ error ] [8]MemcachePool::get(): Server 127.0.0.1 (tcp 11211, udp 0) failed with: ÓÉÓÚÁ¬½Ó·½ÔÚÒ»¶ÎÊ±¼äºóÃ»ÓĞÕıÈ·´ğ¸´»òÁ¬½ÓµÄÖ÷»úÃ»ÓĞ·´Ó¦£¬Á¬½Ó³¢ÊÔÊ§°Ü¡£
+ (10060)[D:\phpstudy_pro\WWW\t\thinkphp\library\think\session\driver\Memcache.php:82]
+---------------------------------------------------------------
+[ 2019-11-12T10:52:18+08:00 ] 127.0.0.1 GET www.t.com/
+[ error ] [8]MemcachePool::get(): Server 127.0.0.1 (tcp 11211, udp 0) failed with: ÓÉÓÚÁ¬½Ó·½ÔÚÒ»¶ÎÊ±¼äºóÃ»ÓĞÕıÈ·´ğ¸´»òÁ¬½ÓµÄÖ÷»úÃ»ÓĞ·´Ó¦£¬Á¬½Ó³¢ÊÔÊ§°Ü¡£
+ (10060)[D:\phpstudy_pro\WWW\t\thinkphp\library\think\session\driver\Memcache.php:82]
+---------------------------------------------------------------
+[ 2019-11-12T10:52:43+08:00 ] 127.0.0.1 GET www.t.com/
+[ error ] [8]MemcachePool::get(): Server 127.0.0.1 (tcp 11211, udp 0) failed with: ÓÉÓÚÁ¬½Ó·½ÔÚÒ»¶ÎÊ±¼äºóÃ»ÓĞÕıÈ·´ğ¸´»òÁ¬½ÓµÄÖ÷»úÃ»ÓĞ·´Ó¦£¬Á¬½Ó³¢ÊÔÊ§°Ü¡£
+ (10060)[D:\phpstudy_pro\WWW\t\thinkphp\library\think\session\driver\Memcache.php:82]
+---------------------------------------------------------------
+[ 2019-11-12T10:54:03+08:00 ] 127.0.0.1 GET www.t.com/
+[ error ] [0]ä¸æ”¯æŒ:memcache[D:\phpstudy_pro\WWW\t\thinkphp\library\think\session\driver\Memcache.php:44]
+---------------------------------------------------------------
+[ 2019-11-12T10:54:08+08:00 ] 127.0.0.1 GET www.t.com/
+[ error ] [0]ä¸æ”¯æŒ:memcache[D:\phpstudy_pro\WWW\t\thinkphp\library\think\session\driver\Memcache.php:44]
+---------------------------------------------------------------
+[ 2019-11-12T10:54:54+08:00 ] 127.0.0.1 GET www.t.com/
+[ error ] [0]ä¸æ”¯æŒ:memcache[D:\phpstudy_pro\WWW\t\thinkphp\library\think\session\driver\Memcache.php:44]
+---------------------------------------------------------------
+[ 2019-11-12T10:56:00+08:00 ] 127.0.0.1 GET www.t.com/
+[ error ] [8]MemcachePool::get(): Server 127.0.0.1 (tcp 11211, udp 0) failed with: ÓÉÓÚÁ¬½Ó·½ÔÚÒ»¶ÎÊ±¼äºóÃ»ÓĞÕıÈ·´ğ¸´»òÁ¬½ÓµÄÖ÷»úÃ»ÓĞ·´Ó¦£¬Á¬½Ó³¢ÊÔÊ§°Ü¡£
+ (10060)[D:\phpstudy_pro\WWW\t\thinkphp\library\think\session\driver\Memcache.php:82]
